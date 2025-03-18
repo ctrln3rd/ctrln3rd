@@ -16,23 +16,24 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
+<!--
 ## 🏗️ Projects  
 🌍 [Urban Noise Pollution Map](https://github.com/your-repo) *(AI-powered noise analysis & mapping)*  
-💪 [Gym Guru](https://github.com/your-repo) *(A Gym Management System for fitness tracking)*  
-
+💪 [Gym Guru](https://github.com/gm-guru) *(A Gym Management System for fitness tracking)*  
+-->
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/austine-mark)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ctrln3rd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://austinemark.netlify.app)
 
 ---
 
 ## 📊 GitHub Stats  
-![ctrlN3rd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrlN3rd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlN3rd&layout=compact&theme=radical)
+![ctrlN3rd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrln3rd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrln3rd&layout=compact&theme=radical)
 
 ---
 
