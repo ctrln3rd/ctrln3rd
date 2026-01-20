@@ -1,11 +1,7 @@
-
-
-# Austine (ctrlN3rd)
-
 I develop web apps, active in cloud computing, ai intergrations and general programming
 
 ## 🔧 Common Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,react,svelte,nextjs,ts,python,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,react,svelte,nextjs,ts,python,tailwind,linux&perline=4)](https://skillicons.dev)
 
 
 ## 📫 Connect With Me  
